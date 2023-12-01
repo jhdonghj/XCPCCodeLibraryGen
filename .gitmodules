@@ -1,0 +1,3 @@
+[submodule "XCPC-Code-Library"]
+	path = XCPC-Code-Library
+	url = ssh://git@git.cvbbacm.com:2222/Toxel/XCPC-Code-Library.git
