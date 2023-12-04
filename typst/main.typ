@@ -13,6 +13,11 @@
 ])
 
 #show: rest => columns(2, rest)
+
+#outline(
+  indent: auto
+)
+
 #set text(8pt)
 
 #include "code.typ"

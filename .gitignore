@@ -1,13 +1,12 @@
 *~
 code.tex
 code.typ
-code.pdf
 main.aux
 main.log
 main.toc
-main.pdf
 .DS_Store
+*.pdf
 *.log
 utils/
-src/
+# src/
 READMEold.md
